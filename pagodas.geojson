@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shwezigon Pagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.047,
+          21.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagaing Pagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.014,
+          21.872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soon U Ponya Shin Pagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.048,
+          21.876
+        ]
+      }
+    }
+  ]
+}
