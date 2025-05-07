@@ -546,3 +546,7 @@ viewer.camera.flyTo({
   destination: maxarRectangle,
   duration: 2.0
 });
+
+// ✅ 初期表示で MapTiler（通常地図）を表示
+setBaseLayer('maptiler');
+
